@@ -26,6 +26,8 @@ versiyonlarimdaki durumu gosterir
 git commit -a -m --> bir defa git add . yaptiktan sonra
 bu komut ile versiyon degisikligi yaptiktan sonra
 tekrar git add yapmadan commitliyebiliyoruz
+
+Not: pull yapmak icin deneme
   */
 
 
